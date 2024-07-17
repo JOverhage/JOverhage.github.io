@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This site is still under construction!
-I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macroeconomics broadly. More specifically, I am currently working on the effects of market power for economic development, entrepreneurship and the role of expectation formation in monetary policy transmission. 
+
+I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macroeconomics broadly. More specifically, I am currently working on the effects of market power for economic development, entrepreneurship and the role of expectation formation in monetary policy transmission. Test sentence lorem ipsum
 
 
 ## Social Media Plug
