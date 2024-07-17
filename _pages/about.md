@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macroeconomics broadly. More specifically, I am currently working on the effects of market power for economic development, entrepreneurship and the role of expectation formation in monetary policy transmission. Test sentence lorem ipsum
+I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I am Currently working on market power, economic growth, entrepreneurship and the role of expectation formation in monetary policy transmission.
 
 
 ## Social Media Plug
