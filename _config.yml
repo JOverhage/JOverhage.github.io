@@ -88,12 +88,12 @@ analytics:
 # Site Author
 author:
   name             : "Jonas Overhage"
-  avatar           : "Avatar.jpg"
+  avatar           : "avatar.jpg"
   bio              : "Doctoral Student, Institute for International Economic Studies"
   location         :
   employer         :
   googlescholar    : #"https://scholar-google-com.oca.ucsc.edu/citations?user=-eejuuUAAAAJ&hl=en"
-  email            : jonas.overhage@iies.su.se
+  email            : "jonas.overhage@iies.su.se"
   github           : "JOverhage"
   uri              :
   bitbucket        :
