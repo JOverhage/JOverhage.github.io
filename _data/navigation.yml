@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  #- title: "Teaching"
+  #  url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+ # - title: "Blog"
+  #  url: /year-archive/
+
+  #- title: "."
+  #  url: /markdown/
+
+# git commit -am "add change to ________" && git push
+
+# git add _data/navigation.yml && git commit -m "add change to _data/navigation.yml" && git push
