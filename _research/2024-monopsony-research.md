@@ -25,7 +25,7 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 This paper investigates the link between market power on the labor market and economic growth. We microfound monopsony power in a model of firm dynamics and creative destruction. Our main finding is that decreasing the amount of monopsony power firms have may increase the current level of output while decreasing economic growth.
 
-Download coming soon!
+Draft available upon request.
 
 <!--
 [Download](www.google.de)
