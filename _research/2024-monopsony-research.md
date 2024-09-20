@@ -23,9 +23,7 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 ---
 
-This paper investigates the link between market power on the labor market and economic growth. We microfound monopsony power in a model of firm dynamics and creative destruction. Our main finding is that decreasing the amount of monopsony power firms have may increase the current level of output while decreasing economic growth.
-
-Draft available upon request.
+ In the U.S., the last decades have seen a rise in concentration and decrease in economic growth. Over the same time period, shifts in labor market power and income tax regimes have occured. This paper connects these developments. We identify labor supply elasticities as an important factor for market concentration. Higher elasticities further the expansion of large, productive firms. We argue that this expansion may increase efficiency in production while at the same time decreasing it in innovation. We show that income taxation plays into this, with decreases in progressivity increasing market concentration. Embedding monopsonic labor markets in a model of economic growth, we quantify these effects. We identify key channels through which historical tax reforms affected output and present evidence that a more progressive tax regime increases long-run productivity growth.
 
 
 [Download, preliminary version](https://joverhage.github.io/massen-mellgren-overhage-august24.pdf)
