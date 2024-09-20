@@ -27,8 +27,10 @@ This paper investigates the link between market power on the labor market and ec
 
 Draft available upon request.
 
-<!--
-[Download](www.google.de)
 
+[Download, preliminary version](https://joverhage.github.io/massen-mellgren-overhage-august24.pdf)
+
+[Slides, VfS Annual Conference 2024](https://joverhage.github.io/monopsony-creative-destruction-vfs24.pdf)
+<!--
 Recommended citation: XXX,YYY,ZZZ (2023). &quot;title&quot; <i>Working Paper</i>.
 -->
