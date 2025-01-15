@@ -28,6 +28,8 @@ For a longer (but likely outdated) version please click <a href="http://JOverhag
 
 Education
 ======
+* 01/2025 - Visiting Fellow, Harvard University 
+
 * 09/2021 – Ph.D. Economics, Institute for International Economics, Stockholm University
 
 * 09/2019 - 09/2021 M.Sc. Economics, University of Bonn
@@ -106,11 +108,13 @@ Other experience
 * 11/2023 - 03/2024 "Macro Group" Organization
   * internal seminar for faculty & graduate students at the IIES
 
-<!-- 
-CONFERENCES AND SEMINARS 
+
+Conference Presentations
 ======
-* 
--->
+* 09/2024 Vfs Annual Conference, TU Berlin
+
+* 12/2024 GEA Annual Conference, CESifo 
+
 
 
 

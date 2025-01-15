@@ -9,7 +9,14 @@ redirect_from:
 ---
 
 
-I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I am Currently working on market power, economic growth, entrepreneurship and the role of expectation formation in monetary policy transmission.
+I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I work on market power, business dynamism and informational frictions in monetary policy transmission.
+
+Currently, I am visiting Harvard University until May 2025.
+
+## Recent Presentations
+
+I recently presented at the CESifo GEA Annual Conference, slides are available [here](https://joverhage.github.io/Monopsony-MMO.pdf).
+
 
 
 ## Social Media Plug
