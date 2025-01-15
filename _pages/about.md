@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonas Overhage"
+title: "Main Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,9 +13,9 @@ I am PhD candidate at the Institute for International Economic Studies, Stockhol
 
 Currently, I am visiting Harvard University until May 2025.
 
-## Recent Presentations
+## Recent Updates
 
-I recently presented at the CESifo GEA Annual Conference, slides are available [here](https://joverhage.github.io/Monopsony-MMO.pdf).
+I recently presented at the CESifo GEA Annual Conference, slides are available [here](https://joverhage.github.io/Monopsony-MMO-CESifo.pdf).
 
 
 

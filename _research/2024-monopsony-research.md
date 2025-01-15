@@ -28,7 +28,7 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 [Download, preliminary version](https://joverhage.github.io/massen-mellgren-overhage-august24.pdf)
 
-[Slides, CESifo GEA Annual Conference](https://joverhage.github.io/Monopsony-MMO.pdf)
+[Slides, CESifo GEA Annual Conference](https://joverhage.github.io/Monopsony-MMO-CESifo.pdf)
 <!--
 Recommended citation: XXX,YYY,ZZZ (2023). &quot;title&quot; <i>Working Paper</i>.
 -->
