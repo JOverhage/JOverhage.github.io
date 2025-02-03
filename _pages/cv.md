@@ -26,8 +26,11 @@ For a longer (but likely outdated) version please click <a href="http://JOverhag
 
 {% include base_path %}
 
-Education
+Academic Experience
 ======
+
+* 02/2025 - Visiting Research Scholar, NBER
+
 * 01/2025 - Visiting Fellow, Harvard University 
 
 * 09/2021 – Ph.D. Economics, Institute for International Economics, Stockholm University
@@ -55,7 +58,7 @@ RESEARCH PAPERS
 -->
 
 
-Work experience 
+Additional Work experience 
 ======
 
 * 10/2017 - 08/2019 WIK-consult GmbH, Bad Honnef
