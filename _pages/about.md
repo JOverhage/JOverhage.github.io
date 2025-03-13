@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I work on market power, business dynamism and informational frictions in monetary policy transmission.
+I am 4th year PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I work on market power, business dynamism and informational frictions in monetary policy transmission.
 
 I am visiting Harvard University and the NBER during Spring 2025.
 
