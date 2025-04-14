@@ -9,11 +9,11 @@ permalink: /research/2024-monopsony-research
 
 excerpt: ''
 
-date: 2024-07-17
+date: 2025-04-14
 
 venue: ''
 
-paperurl: ''
+paperurl: 'https://www.cesifo.org/en/publications/2025/working-paper/monopsony-power-and-creative-destruction-static-loss-faster-growth'
 
 citation: 'Maassen, I., Mellgren, F., Overhage, J. (2025). "Monopsony Power and Creative Destruction: Static Loss, Faster Growth.", CESifo Working Paper No. 11820.'
 
@@ -27,9 +27,6 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 Monopsonistic labor markets create misallocation of labor while generating profits. These in turn incentivize firms to innovate, which drives aggregate growth. This paper explores the trade-off between static efficiency and growth by developing a tractable endogenous growth model with heterogeneous firms and upward sloping labor supply curves. We show that monopsony can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. Our model calibrated to U.S. data confirms previous findings that imperfectly competitive labor markets distort static efficiency. However, we find that monopsony also leads to higher growth. On balance, we estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%. 
 
-
-
-[Download, CESifo Website](https://www.cesifo.org/en/publications/2025/working-paper/monopsony-power-and-creative-destruction-static-loss-faster-growth)
 
 <!--
 Recommended citation: XXX,YYY,ZZZ (2023). &quot;title&quot; <i>Working Paper</i>.
