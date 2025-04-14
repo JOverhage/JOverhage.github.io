@@ -1,6 +1,6 @@
 ---
 
-title: "Monopsony Power and Creative Destruction (joint with Isabella Maassen and Filip Mellgren)"
+title: "Monopsony Power and Creative Destruction: Static Loss, Faster Growth (joint with Isabella Maassen and Filip Mellgren)"
 
 collection: research
 
@@ -15,7 +15,7 @@ venue: ''
 
 paperurl: ''
 
-citation: 'Maassen, I., Mellgren, F., Overhage, J. (2024). "Monopsony Power and Creative Destruction.", Working Paper.'
+citation: 'Maassen, I., Mellgren, F., Overhage, J. (2025). "Monopsony Power and Creative Destruction: Static Loss, Faster Growth.", CESifo Working Paper No. 11820.'
 
 PublicationStatus: 'WorkingPaper'
 
@@ -23,12 +23,14 @@ tags: ['Growth','Market Power','Firm Dynamics']
 
 ---
 
- In the U.S., the last decades have seen a rise in concentration and decrease in economic growth. Over the same time period, shifts in labor market power and income tax regimes have occured. This paper connects these developments. We identify labor supply elasticities as an important factor for market concentration. Higher elasticities further the expansion of large, productive firms. We argue that this expansion may increase efficiency in production while at the same time decreasing it in innovation. We show that income taxation plays into this, with decreases in progressivity increasing market concentration. Embedding monopsonic labor markets in a model of economic growth, we quantify these effects. We identify key channels through which historical tax reforms affected output and present evidence that a more progressive tax regime increases long-run productivity growth.
 
 
-[Download, preliminary version](https://joverhage.github.io/massen-mellgren-overhage-august24.pdf)
+Monopsonistic labor markets create misallocation of labor while generating profits. These in turn incentivize firms to innovate, which drives aggregate growth. This paper explores the trade-off between static efficiency and growth by developing a tractable endogenous growth model with heterogeneous firms and upward sloping labor supply curves. We show that monopsony can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. Our model calibrated to U.S. data confirms previous findings that imperfectly competitive labor markets distort static efficiency. However, we find that monopsony also leads to higher growth. On balance, we estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%. 
 
-[Slides, CESifo GEA Annual Conference](https://joverhage.github.io/Monopsony-MMO-CESifo.pdf)
+
+
+[Download, CESifo Website](https://www.cesifo.org/en/publications/2025/working-paper/monopsony-power-and-creative-destruction-static-loss-faster-growth)
+
 <!--
 Recommended citation: XXX,YYY,ZZZ (2023). &quot;title&quot; <i>Working Paper</i>.
 -->
