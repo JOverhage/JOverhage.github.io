@@ -13,7 +13,7 @@ date: 2025-04-14
 
 venue: ''
 
-paperurl: 'https://www.cesifo.org/en/publications/2025/working-paper/monopsony-power-and-creative-destruction-static-loss-faster-growth'
+paperurl: ''
 
 citation: 'Maassen, I., Mellgren, F., Overhage, J. (2025). "Monopsony Power and Creative Destruction: Static Loss, Faster Growth.", CESifo Working Paper No. 11820.'
 
