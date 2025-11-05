@@ -29,11 +29,11 @@ For a longer (but likely outdated) version please click <a href="http://JOverhag
 Academic Experience
 ======
 
-* 02/2025 - Visiting Research Scholar, NBER
-
-* 01/2025 - Visiting Fellow, Harvard University 
-
 * 09/2021 – Ph.D. Economics, Institute for International Economics, Stockholm University
+
+* 02/2025 - 06/2025 Visiting Research Scholar, NBER
+
+* 01/2025 - 05/2025 Visiting Fellow, Harvard University 
 
 * 09/2019 - 09/2021 M.Sc. Economics, University of Bonn
 
@@ -112,13 +112,15 @@ Other experience
   * internal seminar for faculty & graduate students at the IIES
 
 
-Conference Presentations
+Conferences, Presentations
 ======
 * 09/2024 Vfs Annual Conference, TU Berlin
 
 * 12/2024 GEA Annual Conference, CESifo 
 
+* 10/2025 SUDSWEC, Stockholm School of Economics
 
+* 10/2025 14th National PhD Workshop, Swedish House of Finance
 
 
 
