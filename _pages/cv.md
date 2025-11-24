@@ -122,6 +122,8 @@ Conferences, Presentations
 
 * 10/2025 14th National PhD Workshop, Swedish House of Finance
 
+* 11/2025 Internal Seminar, University of Mannheim
+
 
 
 <!--*
