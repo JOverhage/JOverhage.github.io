@@ -9,7 +9,7 @@ permalink: /research/2024-monopsony-research
 
 excerpt: ''
 
-date: 2025-04-14
+date: 2026-01-14
 
 venue: ''
 
