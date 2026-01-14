@@ -15,7 +15,7 @@ venue: ''
 
 paperurl: ''
 
-citation: 'Maassen, I., Mellgren, F., Overhage, J. (2026). "Monopsony Power and Creative Destruction: Static Loss, Faster Growth.", R&R, American Economic Journal: Macroeconomics .'
+citation: 'Maassen, I., Mellgren, F., Overhage, J. (2026). "Monopsony Power and Creative Destruction", R&R, American Economic Journal: Macroeconomics .'
 
 PublicationStatus: 'WorkingPaper'
 
