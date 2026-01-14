@@ -1,6 +1,6 @@
 ---
 
-title: "Monopsony Power and Creative Destruction: Static Loss, Faster Growth (joint with Isabella Maassen and Filip Mellgren)"
+title: "Monopsony Power and Creative Destruction (joint with Isabella Maassen and Filip Mellgren)"
 
 collection: research
 
