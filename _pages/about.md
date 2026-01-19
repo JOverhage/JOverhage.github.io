@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a 5th year PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I work on market power, business dynamism and informational frictions in monetary policy transmission.
+I am a 5th year PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I am particularly interested in the role of information frictions and market power in the macroeconomy.
 
 ## Recent Updates
 
-I visited Harvard University and the NBER in Spring 2025. Our project "Monopsony Power and Creative Destruction" was made available as a CESifo working paper during this time and can be found [here](https://www.ifo.de/en/cesifo/publications/2025/working-paper/monopsony-power-and-creative-destruction-static-loss-faster-growth).
+Our paper <a href="https://joverhage.github.io/research/2024-monopsony-research">"Monopsony Power and Creative Destruction"</a> is now under revise and resubmit at the American Economic Journal: Macroeconomics.
 
 
 
