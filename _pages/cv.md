@@ -21,7 +21,7 @@ Stockholm University<br>
 Short CV Jonas Overhage
 ======
 
-For a longer (but likely outdated) version please click <a href="http://JOverhage.github.io/files/CV_Overhage_May2023.pdf">here</a>
+For a longer (but likely outdated) version please click <a href="http://JOverhage.github.io/files/CV_Jan2026.pdf">here</a>
 
 
 {% include base_path %}
