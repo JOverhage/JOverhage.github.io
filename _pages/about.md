@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a 5th year PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broady. I am particularly interested in the role of information frictions and market power in the macroeconomy.
+I am a 5th year PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broadly. I am particularly interested in the role of information frictions and market power in the macroeconomy.
 
 ## Recent Updates
 
-Our paper <a href="https://joverhage.github.io/research/2024-monopsony-research">"Monopsony Power and Creative Destruction"</a> is now under revise and resubmit at the American Economic Journal: Macroeconomics.
+Our paper <a href="https://joverhage.github.io/research/2024-monopsony-research">"Monopsony Power and Creative Destruction"</a> is now at the revise-and-resubmit stage at the American Economic Journal: Macroeconomics.
 
 
 

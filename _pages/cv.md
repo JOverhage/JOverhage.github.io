@@ -58,7 +58,7 @@ RESEARCH PAPERS
 -->
 
 
-Additional Work experience 
+Additional Work Experience 
 ======
 
 * 10/2017 - 08/2019 WIK-consult GmbH, Bad Honnef
@@ -94,9 +94,9 @@ Teaching
 ======
 
 * 04/2023 – 05/2023 PhD Macroeconomics II, Stockholm University
-  * Seminars for first year PhD-students
+  * Seminars for first year PhD students
 * 09/2022 – 11/2022 PhD Microeconomics I, Stockholm University
-  * Seminars for first year PhD-students
+  * Seminars for first year PhD students
 * 04/2020 – 09/2020 Bachelor Macroeconomics B, University of Bonn
   * Co-teaching seminars for undergraduate students together with Prof. Thomas
 Hintermaier
