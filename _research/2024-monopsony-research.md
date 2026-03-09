@@ -11,7 +11,7 @@ excerpt: 'This paper explores the trade-off between static efficiency and growth
 
 date: 2026-01-14
 
-venue: ''
+venue: 'American Economic Journal: Macroeconomics'
 
 paperurl: 'http://JOverhage.github.io/files/MMO_Monopsony_Jan26.pdf'
 

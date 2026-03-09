@@ -27,6 +27,18 @@
         </span>
       </h2>
 
+      {% if post.venue %}
+        <p style="margin-top: 0.3em; margin-bottom: 0.5em; font-size: 0.95em; color: #52adc8; font-weight: 500;">
+          {% if post.PublicationStatus == 'WorkingPaper' %}
+            R&R at {{ post.venue }}
+          {% elsif post.PublicationStatus == 'Published' %}
+            {{ post.venue }}
+          {% else %}
+            {{ post.venue }}
+          {% endif %}
+        </p>
+      {% endif %}
+
       {% if post.excerpt %}
         <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.5em;">{{ post.excerpt | markdownify | strip }}</p>
       {% endif %}
