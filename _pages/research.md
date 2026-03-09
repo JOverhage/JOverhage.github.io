@@ -26,7 +26,7 @@ author_profile: true
 <hr style="border-color:black;">
 {% for post in site.research reversed %}
   {% if post.PublicationStatus == 'WorkingPaper' %}
-    {% include archive-single.html %}
+    {% include archive-single-research.html %}
   {% endif %}
 {% endfor %}
  
@@ -35,7 +35,7 @@ author_profile: true
  <hr style="border-color:black;">
 {% for post in site.research reversed %}
   {% if post.PublicationStatus == 'WorkInProgress' %}
-    {% include archive-single.html %}
+    {% include archive-single-research.html %}
   {% endif %}
 {% endfor %}
 

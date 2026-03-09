@@ -7,13 +7,13 @@ collection: research
 permalink: /research/2024-monopsony-research
 
 
-excerpt: ''
+excerpt: 'This paper explores the trade-off between static efficiency and growth in monopsonistic labor markets using a tractable endogenous growth model with heterogeneous firms.'
 
 date: 2026-01-14
 
 venue: ''
 
-paperurl: ''
+paperurl: 'http://JOverhage.github.io/files/MMO_Monopsony_Jan26.pdf'
 
 citation: 'Maassen, I., Mellgren, F., Overhage, J. (2026). "Monopsony Power and Creative Destruction", R&R, American Economic Journal: Macroeconomics.'
 

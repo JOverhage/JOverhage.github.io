@@ -7,7 +7,7 @@ collection: research
 permalink: /research/consumption-information
 
 
-excerpt: ''
+excerpt: 'A rational expectations model with information frictions that generates hump-shaped consumption responses consistent with macro evidence and high MPCs in micro data.'
 
 date: 2025-02-21
 

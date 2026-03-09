@@ -1,0 +1,43 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% assign tags_var = '' %}
+{% for item in post.tags %}
+  {% assign tags_var = tags_var | append: ' ' | append: item %}
+{% endfor %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <div class="{{tags_var}}">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <span style="font-size: 0.6em; font-weight: normal; color: #7a8288; margin-left: 8px;">
+          {% if post.PublicationStatus == 'WorkingPaper' %}
+            <span style="background: #e8f4f8; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">R&R</span>
+          {% elsif post.PublicationStatus == 'WorkInProgress' %}
+            <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">WIP</span>
+          {% endif %}
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        </span>
+      </h2>
+
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.5em;">{{ post.excerpt | markdownify | strip }}</p>
+      {% endif %}
+
+      <p style="margin-top: 0.5em; font-size: 0.9em;">
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" style="margin-right: 12px;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
+        {% endif %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-info-circle" aria-hidden="true"></i> Details</a>
+      </p>
+
+    </article>
+  </div>
+</div>
