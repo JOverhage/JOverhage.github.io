@@ -57,18 +57,6 @@ RESEARCH PAPERS
 * XXXXX
 -->
 
-
-Additional Work Experience 
-======
-
-* 10/2017 - 08/2019 WIK-consult GmbH, Bad Honnef
-  * Research assistant, innovation and digitization
-
-* 09/2019 - 09/2021 Institute of Microeconomics, University of Bonn
-  * Graduate student assistant
-  * Assistance for research, examination
-  * Organization for the Weekly "Micro Theory Seminar" 
-
 Research
 ======
 <ul>
@@ -107,15 +95,25 @@ Other experience
 
 Conferences, Presentations
 ======
-* 09/2024 Vfs Annual Conference, TU Berlin
 
-* 12/2024 GEA Annual Conference, CESifo 
+* 02/2026 CASFI Schumpeter @100, University of Bonn
 
-* 10/2025 SUDSWEC, Stockholm School of Economics
+* 11/2025 Internal Seminar, University of Mannheim
 
 * 10/2025 14th National PhD Workshop, Swedish House of Finance
 
-* 11/2025 Internal Seminar, University of Mannheim
+* 10/2025 SUDSWEC, Stockholm School of Economics
+
+* 12/2024 GEA Annual Conference, CESifo 
+
+* 09/2024 Vfs Annual Conference, TU Berlin
+
+
+
+
+
+
+
 
 
 
