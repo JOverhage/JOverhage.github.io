@@ -96,6 +96,8 @@ Other experience
 Conferences, Presentations
 ======
 
+* 05/2026 Fifth PhD Workshop in Money and Finance, Sveriges Riksbank
+
 * 02/2026 CASFI Schumpeter @100, University of Bonn
 
 * 11/2025 Internal Seminar, University of Mannheim
