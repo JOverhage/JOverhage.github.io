@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broadly. I am particularly interested in the role of information frictions and market power in the macroeconomy. 
 
-I am on the 2025/26 Academic Job Market.
+I am on the 2026/27 Academic Job Market.
 
 ## Recent Updates
 
