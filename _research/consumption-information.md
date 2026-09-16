@@ -19,7 +19,21 @@ citation: 'Overhage, J. (2026). "Inferring the Aggregate: Information Frictions 
 
 PublicationStatus: 'WorkInProgress'
 
-tags: ['Heterogeneous Agents','Information']
+status: 'Work in progress'
+
+tags: ['Imperfect Information']
+
+show_on_home: true
+
+job_market_paper: true
+
+homepage_order: 1
+
+homepage_status: 'Draft coming soon'
+
+detailsurl: '/research/consumption-information'
+
+details_label: 'Abstract'
 
 ---
 

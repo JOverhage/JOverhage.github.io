@@ -18,8 +18,10 @@
       <h2 class="archive__item-title" itemprop="headline">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         <span style="font-size: 0.6em; font-weight: normal; color: #7a8288; margin-left: 8px;">
-          {% if post.PublicationStatus == 'WorkingPaper' %}
-            <span style="background: #e8f4f8; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">R&R</span>
+          {% if post.status %}
+            <span style="background: #e8f4f8; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">{{ post.status }}</span>
+          {% elsif post.PublicationStatus == 'WorkingPaper' %}
+            <span style="background: #e8f4f8; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">Working paper</span>
           {% elsif post.PublicationStatus == 'WorkInProgress' %}
             <span style="background: #f0f0f0; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">WIP</span>
           {% endif %}
@@ -27,10 +29,14 @@
         </span>
       </h2>
 
-      {% if post.venue %}
+      {% if post.venue or post.status %}
         <p style="margin-top: 0.3em; margin-bottom: 0.5em; font-size: 0.95em; color: #52adc8; font-weight: 500;">
-          {% if post.PublicationStatus == 'WorkingPaper' %}
-            R&R at {{ post.venue }}
+          {% if post.status and post.venue %}
+            {{ post.status }} at {{ post.venue }}
+          {% elsif post.status %}
+            {{ post.status }}
+          {% elsif post.PublicationStatus == 'WorkingPaper' %}
+            Working paper{% if post.venue %} at {{ post.venue }}{% endif %}
           {% elsif post.PublicationStatus == 'Published' %}
             {{ post.venue }}
           {% else %}

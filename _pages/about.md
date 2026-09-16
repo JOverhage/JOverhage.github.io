@@ -9,22 +9,31 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broadly. I am particularly interested in the role of information frictions and market power in the macroeconomy. 
+I am a PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broadly. In particular, I study the role of imperfect information and imperfect markets. 
 
 I am on the 2026/27 Academic Job Market.
 
-## Recent Updates
+{% assign homepage_papers = site.research | where: "show_on_home", true | sort: "homepage_order" %}
 
-Our paper <a href="https://joverhage.github.io/research/2024-monopsony-research">"Monopsony Power and Creative Destruction"</a> is now at the revise-and-resubmit stage at the American Economic Journal: Macroeconomics.
+<section class="homepage-research" aria-label="Research">
+  {% for paper in homepage_papers %}
+    {% if paper.job_market_paper %}
+      <div class="homepage-research__jmp">
+        <p class="homepage-research__label">Job Market Paper</p>
+        {% include homepage-paper.html paper=paper featured=true %}
+      </div>
+    {% endif %}
+  {% endfor %}
 
-
-
-## Social Media Plug
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Demographic success story people sleep on: German population projections went from rapid decline to slight increase in less than 15 years.<br><br>&quot;Vorhersagen sind schwierig, vor allem wenn sie die Zukunft betreffen&quot; <a href="https://t.co/wPc5VMtMs4">pic.twitter.com/wPc5VMtMs4</a></p>&mdash; Jonas Overhage (@JonasOverhage) <a href="https://twitter.com/JonasOverhage/status/1765079817198936408?ref_src=twsrc%5Etfw">March 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-## [Research](research)
+  <h2 class="homepage-research__heading">Additional Research</h2>
+  <div class="homepage-research__additional">
+    {% for paper in homepage_papers %}
+      {% unless paper.job_market_paper %}
+        {% include homepage-paper.html paper=paper %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</section>
 
 
 

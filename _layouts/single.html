@@ -36,10 +36,14 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.collection == 'research' and page.venue and page.date %}
+        {% elsif page.collection == 'research' and page.date %}
           <p>
-            {% if page.PublicationStatus == 'WorkingPaper' %}
-              <strong>R&R at</strong> <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
+            {% if page.status and page.venue %}
+              <strong>{{ page.status }} at</strong> <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
+            {% elsif page.status %}
+              <strong>{{ page.status }}</strong> {{ page.date | default: "1900-01-01" | date: "%Y" }}
+            {% elsif page.PublicationStatus == 'WorkingPaper' and page.venue %}
+              <strong>Working paper at</strong> <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
             {% else %}
               <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
             {% endif %}

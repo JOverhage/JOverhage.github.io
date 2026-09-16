@@ -1,0 +1,28 @@
+{% assign paper = include.paper %}
+{% assign display_title = paper.homepage_title | default: paper.title %}
+
+<article class="homepage-paper{% if include.featured %} homepage-paper--featured{% endif %}">
+  <h3 class="homepage-paper__title">{{ display_title }}</h3>
+
+  {% if paper.homepage_authors %}
+    <p class="homepage-paper__authors">{{ paper.homepage_authors }}</p>
+  {% endif %}
+
+  {% if paper.homepage_status %}
+    <p class="homepage-paper__status">{{ paper.homepage_status }}</p>
+  {% endif %}
+
+  {% if paper.detailsurl or paper.paperurl or paper.slidesurl %}
+    <p class="homepage-paper__links">
+      {% if paper.detailsurl %}
+        <a href="{{ paper.detailsurl | relative_url }}">{{ paper.details_label | default: "Details" }}</a>
+      {% endif %}
+      {% if paper.paperurl %}
+        <a href="{{ paper.paperurl }}">Paper</a>
+      {% endif %}
+      {% if paper.slidesurl %}
+        <a href="{{ paper.slidesurl }}">Slides</a>
+      {% endif %}
+    </p>
+  {% endif %}
+</article>
