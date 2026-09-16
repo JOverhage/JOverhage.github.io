@@ -35,6 +35,8 @@ homepage_authors: 'joint with Isabella Maassen and Filip Mellgren'
 
 homepage_status: 'Revise & Resubmit at American Economic Journal: Macroeconomics'
 
+homepage_status_highlight: true
+
 ---
 
 

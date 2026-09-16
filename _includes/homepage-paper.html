@@ -1,5 +1,11 @@
 {% assign paper = include.paper %}
 {% assign display_title = paper.homepage_title | default: paper.title %}
+{% assign has_details = false %}
+{% assign has_download = false %}
+{% assign has_slides = false %}
+{% if paper.detailsurl and paper.detailsurl != empty %}{% assign has_details = true %}{% endif %}
+{% if paper.paperurl and paper.paperurl != empty %}{% assign has_download = true %}{% endif %}
+{% if paper.slidesurl and paper.slidesurl != empty %}{% assign has_slides = true %}{% endif %}
 
 <article class="homepage-paper{% if include.featured %} homepage-paper--featured{% endif %}">
   <h3 class="homepage-paper__title">{{ display_title }}</h3>
@@ -9,18 +15,18 @@
   {% endif %}
 
   {% if paper.homepage_status %}
-    <p class="homepage-paper__status">{{ paper.homepage_status }}</p>
+    <p class="homepage-paper__status{% if paper.homepage_status_highlight %} homepage-paper__status--highlight{% endif %}">{{ paper.homepage_status }}</p>
   {% endif %}
 
-  {% if paper.detailsurl or paper.paperurl or paper.slidesurl %}
+  {% if has_details or has_download or has_slides %}
     <p class="homepage-paper__links">
-      {% if paper.detailsurl %}
+      {% if has_details %}
         <a href="{{ paper.detailsurl | relative_url }}">{{ paper.details_label | default: "Details" }}</a>
       {% endif %}
-      {% if paper.paperurl %}
-        <a href="{{ paper.paperurl }}">Paper</a>
+      {% if has_download %}
+        <a href="{{ paper.paperurl }}">Download</a>
       {% endif %}
-      {% if paper.slidesurl %}
+      {% if has_slides %}
         <a href="{{ paper.slidesurl }}">Slides</a>
       {% endif %}
     </p>

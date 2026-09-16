@@ -63,6 +63,11 @@
   color: mix(#fff, $text-color, 30%);
 }
 
+.homepage-paper__status--highlight {
+  color: darken($link-color, 8%);
+  font-weight: bold;
+}
+
 .homepage-paper__links {
   display: flex;
   flex-wrap: wrap;

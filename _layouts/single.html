@@ -38,14 +38,16 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'research' and page.date %}
           <p>
-            {% if page.status and page.venue %}
+            {% if page.status and page.status != empty and page.venue and page.venue != empty %}
               <strong>{{ page.status }} at</strong> <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
-            {% elsif page.status %}
+            {% elsif page.status and page.status != empty %}
               <strong>{{ page.status }}</strong> {{ page.date | default: "1900-01-01" | date: "%Y" }}
-            {% elsif page.PublicationStatus == 'WorkingPaper' and page.venue %}
+            {% elsif page.PublicationStatus == 'WorkingPaper' and page.venue and page.venue != empty %}
               <strong>Working paper at</strong> <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
-            {% else %}
+            {% elsif page.venue and page.venue != empty %}
               <i>{{ page.venue }}</i> {{ page.date | default: "1900-01-01" | date: "%Y" }}
+            {% else %}
+              {{ page.date | default: "1900-01-01" | date: "%Y" }}
             {% endif %}
           </p>
           <!--<p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>-->

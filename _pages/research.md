@@ -11,31 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-
-<!--
-<div><h2> Publications </h2></div>
-<hr style="border-color:black;">
-{% for post in site.research reversed %}
-  {% if post.PublicationStatus == 'Published' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
--->
-
-<div><h2> Working Papers </h2> </div>
-<hr style="border-color:black;">
-{% for post in site.research reversed %}
-  {% if post.PublicationStatus == 'WorkingPaper' %}
-    {% include archive-single-research.html %}
-  {% endif %}
-{% endfor %}
- 
-
- <div><h2> Work in Progress </h2></div>
- <hr style="border-color:black;">
-{% for post in site.research reversed %}
-  {% if post.PublicationStatus == 'WorkInProgress' %}
-    {% include archive-single-research.html %}
-  {% endif %}
+{% assign ordered_research = site.research | sort: "homepage_order" %}
+{% for post in ordered_research %}
+  {% include archive-single-research.html %}
 {% endfor %}
 
