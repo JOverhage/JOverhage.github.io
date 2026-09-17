@@ -24,7 +24,7 @@
         <a href="{{ paper.detailsurl | relative_url }}">{{ paper.details_label | default: "Details" }}</a>
       {% endif %}
       {% if has_download %}
-        <a href="{{ paper.paperurl }}">Download</a>
+        <a href="{{ paper.paperurl }}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download</a>
       {% endif %}
       {% if has_slides %}
         <a href="{{ paper.slidesurl }}">Slides</a>
