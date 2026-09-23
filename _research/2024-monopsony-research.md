@@ -41,7 +41,7 @@ homepage_status_highlight: true
 
 
 
-Monopsonistic labor markets create misallocation of labor while generating profits. These in turn incentivize firms to innovate, which drives aggregate growth. This paper explores the trade-off between static efficiency and growth by developing a tractable endogenous growth model with heterogeneous firms and upward sloping labor supply curves. We show that monopsony can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. Our model calibrated to U.S. data confirms previous findings that imperfectly competitive labor markets distort static efficiency. However, we find that monopsony also leads to higher growth. On balance, we estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%. 
+This study examines the effects of monopsony on macroeconomic productivity and growth using an endogenous growth model with heterogeneous firms facing upward-sloping labor supply curves. We find that this framework can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. In addition, we show that monopsony is an important determinant of product market power. Calibration to U.S. data confirms previous findings that monopsony decreases static productivity. However, it also leads to higher growth. We estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%.. 
 
 <a href="/files/MMO_Monopsony_Jan26.pdf">Download, latest version</a>
 
