@@ -10,7 +10,7 @@ redirect_from:
 <!--
 <h1 align="left">Short CV Jonas Overhage</h1>
 <div align = "left">
-Institute for International Economics<br>
+Institute for International Economic Studies<br>
 Stockholm University<br>
 <a href="mailto:jonas.overhage@iies.su.se" target="_top">jonas.overhage@iies.su.se</a> <br>
 <a href="https://JOverhage.github.io">JOverhage.github.io</a> <br>
@@ -18,10 +18,10 @@ Stockholm University<br>
 </div>
 -->
 
-Short CV Jonas Overhage
+Curriculum Vitae
 ======
 
-For a longer (but likely outdated) version please click <a href="http://JOverhage.github.io/files/CV_Jan2026.pdf">here</a>
+[Download my CV (PDF)](/files/Overhage_CV.pdf)
 
 
 {% include base_path %}
@@ -29,7 +29,7 @@ For a longer (but likely outdated) version please click <a href="http://JOverhag
 Academic Experience
 ======
 
-* 09/2021 – Ph.D. Economics, Institute for International Economics, Stockholm University
+* 09/2021 – Ph.D. Economics, Institute for International Economic Studies, Stockholm University
 
 * 02/2025 - 06/2025 Visiting Research Scholar, NBER
 

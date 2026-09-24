@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Main Page"
-excerpt: "About me"
+excerpt: "Jonas Overhage is a macroeconomist and PhD candidate at IIES, Stockholm University, on the 2026–27 academic job market."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +8,18 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the Institute for International Economic Studies, Stockholm University. My interests lie in Macro- and Monetary Economics broadly. In particular, I study the role of imperfect information and imperfect markets. 
+I am a PhD candidate at the Institute for International Economic Studies (IIES), Stockholm University. I am on the 2026–27 academic job market. I am a macroeconomist studying how imperfect information and imperfect markets influence individual behavior and aggregate economic outcomes.
 
-I am on the 2026/27 Academic Job Market.
+My research combines quantitative macroeconomic models with microeconomic evidence, especially survey data. My job market paper studies how households infer aggregate conditions from their own observed cash flows and how this shapes the effects of fiscal transfers. It also develops a method for solving heterogeneous-agent models with dispersed information. Related work extends this methodological agenda to sequence space methods. A second strand examines the origins and macroeconomic consequences of market power.
+
+<p class="homepage-actions">
+  <a href="{{ '/files/Overhage_CV.pdf' | relative_url }}" class="btn"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CV</a>
+  <a href="{{ '/files/Overhage_JMP.pdf' | relative_url }}" class="btn"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Job Market Paper</a>
+</p>
+
+**Fields:** Macroeconomics and Monetary Economics
+
+**Research interests:** Information frictions, household behavior and expectations, and market power
 
 {% assign homepage_papers = site.research | where: "show_on_home", true | sort: "homepage_order" %}
 

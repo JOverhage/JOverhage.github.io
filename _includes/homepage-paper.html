@@ -8,7 +8,7 @@
 {% if paper.slidesurl and paper.slidesurl != empty %}{% assign has_slides = true %}{% endif %}
 
 <article class="homepage-paper{% if include.featured %} homepage-paper--featured{% endif %}">
-  <h3 class="homepage-paper__title">{{ display_title }}</h3>
+  <h3 class="homepage-paper__title"><a href="{{ paper.url | relative_url }}">{{ display_title }}</a></h3>
 
   {% if paper.homepage_authors %}
     <p class="homepage-paper__authors">{{ paper.homepage_authors }}</p>

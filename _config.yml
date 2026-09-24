@@ -11,7 +11,7 @@ title                    : "Jonas Overhage"
 title_separator          : "|"
 name                     : &name "Jonas Overhage"
 
-description              : &description "Personal Website Jonas Overhage"
+description              : &description "Jonas Overhage is a macroeconomist and PhD candidate at IIES, Stockholm University, on the 2026–27 academic job market."
 
 url                      : https://JOverhage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -89,7 +89,7 @@ analytics:
 author:
   name             : "Jonas Overhage"
   avatar           : "avatar.jpg"
-  bio              : "Doctoral Student, Institute for International Economic Studies"
+  bio              : "PhD Candidate in Economics at IIES · 2026–27 Job Market"
   location         :
   employer         :
   googlescholar    : #"https://scholar-google-com.oca.ucsc.edu/citations?user=-eejuuUAAAAJ&hl=en"

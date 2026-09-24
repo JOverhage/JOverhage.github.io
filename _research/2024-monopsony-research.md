@@ -41,7 +41,7 @@ homepage_status_highlight: true
 
 
 
-This study examines the effects of monopsony on macroeconomic productivity and growth using an endogenous growth model with heterogeneous firms facing upward-sloping labor supply curves. We find that this framework can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. In addition, we show that monopsony is an important determinant of product market power. Calibration to U.S. data confirms previous findings that monopsony decreases static productivity. However, it also leads to higher growth. We estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%.. 
+This study examines the effects of monopsony on macroeconomic productivity and growth using an endogenous growth model with heterogeneous firms facing upward-sloping labor supply curves. We find that this framework can rationalize the prevalence of unproductive yet innovating firms that would otherwise be crowded out by more productive competitors. In addition, we show that monopsony is an important determinant of product market power. Calibration to U.S. data confirms previous findings that monopsony decreases static productivity. However, it also leads to higher growth. We estimate that a 1% narrowing of the markdown increases the present value of output by about 1.08%.
 
 <a href="/files/MMO_Monopsony_Jan26.pdf">Download, latest version</a>
 
