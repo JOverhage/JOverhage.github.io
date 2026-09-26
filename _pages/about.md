@@ -12,14 +12,9 @@ I am a PhD candidate at the Institute for International Economic Studies (IIES),
 
 My research combines quantitative macroeconomic models with microeconomic evidence, especially survey data. My job market paper studies how households infer aggregate conditions from their own observed cash flows and how this shapes the effects of fiscal transfers. It also develops a method for solving heterogeneous-agent models with dispersed information. Related work extends this methodological agenda to sequence space methods. A second strand examines the origins and macroeconomic consequences of market power.
 
-<p class="homepage-actions">
-  <a href="{{ '/files/Overhage_CV.pdf' | relative_url }}" class="btn"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> CV</a>
-  <a href="{{ '/files/Overhage_JMP.pdf' | relative_url }}" class="btn"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Job Market Paper</a>
-</p>
-
 **Fields:** Macroeconomics and Monetary Economics
 
-**Research interests:** Information frictions, household behavior and expectations, and market power
+**Research interests:** Information, household behavior and expectations, market power
 
 {% assign homepage_papers = site.research | where: "show_on_home", true | sort: "homepage_order" %}
 
