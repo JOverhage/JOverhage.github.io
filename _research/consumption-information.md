@@ -1,6 +1,6 @@
 ---
 
-title: "Inferring the Aggregate: Information Frictions and Macroeconomic Dynamics"
+title: "Inferring the Aggregate: Information Frictions and Fiscal Stimulus"
 
 collection: research
 
@@ -15,7 +15,7 @@ venue: ''
 
 paperurl: '/files/Overhage_JMP.pdf'
 
-citation: 'Overhage, J. (2026). "Inferring the Aggregate: Information Frictions and Macroeconomic Dynamics".'
+citation: 'Overhage, J. (2026). "Inferring the Aggregate: Information Frictions and Fiscal Stimulus".'
 
 PublicationStatus: 'WorkingPaper'
 
