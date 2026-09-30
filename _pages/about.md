@@ -12,7 +12,7 @@ I am a PhD candidate at the Institute for International Economic Studies (IIES),
 
 My research combines quantitative macroeconomic models with microeconomic evidence, especially survey data. My job market paper studies how households infer aggregate conditions from their own observed cash flows and how this shapes the effects of fiscal transfers. It also develops a method for solving heterogeneous-agent models with dispersed information. Related work extends this methodological agenda to sequence space methods. A second strand examines the origins and macroeconomic consequences of market power.
 
-**Fields:** Macroeconomics and Monetary Economics
+**Fields:** Macroeconomics, Monetary Economics, Firm Dynamics
 
 **Research interests:** Information, household behavior and expectations, market power
 
