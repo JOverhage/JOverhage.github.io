@@ -5,14 +5,27 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 {% assign ordered_research = site.research | sort: "homepage_order" %}
-{% for post in ordered_research %}
-  {% include archive-single-research.html %}
-{% endfor %}
+
+<section class="research-index page__content" aria-label="Research papers">
+  {% for paper in ordered_research %}
+    {% if paper.job_market_paper %}
+      <div class="research-index__featured">
+        <p class="research-index__label">Job Market Paper</p>
+        {% include homepage-paper.html paper=paper featured=true show_details=true download_label="Paper" %}
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <h2 class="research-index__section-title">Additional Research</h2>
+  <div class="research-index__list">
+    {% for paper in ordered_research %}
+      {% unless paper.job_market_paper %}
+        {% include homepage-paper.html paper=paper show_details=true download_label="Paper" %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</section>
 
