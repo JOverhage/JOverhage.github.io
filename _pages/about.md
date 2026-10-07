@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the Institute for International Economic Studies (IIES), Stockholm University. I am on the 2026–27 academic job market. I am a macroeconomist studying how imperfect information and imperfect markets influence individual behavior and aggregate economic outcomes.
 
-My research combines quantitative macroeconomic models with microeconomic evidence, especially survey data. My job market paper studies how households infer aggregate conditions from their own observed cash flows and how this changes the effects of fiscal transfers. It also develops a method for solving heterogeneous-agent models with dispersed information. Related work extends this methodological agenda to sequence space methods. A second strand of my research examines the origins and macroeconomic consequences of market power.
+My research combines quantitative macroeconomic models with microeconomic evidence, especially survey data. My job market paper studies how households infer aggregate conditions from their own observed cash flows and how this changes the effects of fiscal transfers. It also develops a method for solving heterogeneous-agent models with dispersed information. Related work extends this methodological agenda to sequence space methods. A second strand of my research examines the sources and consequences of market power.
 
 **Fields:** Macroeconomics, Monetary Economics, Firm Dynamics
 
