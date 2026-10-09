@@ -23,6 +23,11 @@
     @include suffix(2 of 12);
   }
 
+  @include breakpoint($x-large) {
+    // Reclaim right padding for roughly 20% more text width on large screens.
+    @include suffix(0.5 of 12);
+  }
+
   .page__inner-wrap {
     @include full();
 
